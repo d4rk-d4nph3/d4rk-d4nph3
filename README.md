@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![prof](profile-3d-contrib/profile-night-view.svg)
+[![d4rk-d4nph3 Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bh4b3sh) [![d4rk-d4nph3 LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabesh-raj-504817136/) [![d4rk-d4nph3 Website](https://img.shields.io/website-up-down-green-red/http/bhabeshraj.com?style=for-the-badge)](https://www.bhabeshraj.com)
+
+[![d4rk-d4nph3's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rk-d4nph3&show_icons=true&theme=tokyonight)](https://github.com/d4rk-d4nph3/d4rk-d4nph3)
+
+![prof](profile-3d-contrib/profile-night-green.svg)
